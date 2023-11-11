@@ -5,8 +5,7 @@
 動物の大喜利投稿をできるコミュニティサイト
 ​
 ### テーマを選んだ理由
-この数年、SNSなどでペットや野生の動物の動画、画像などが流行しており<br>
-世間に癒しを与える影響などがあります。<br>
+この数年、SNSなどでペットや野生の動物の動画、画像などが流行しており、世間に癒しを与える影響などがあります。<br>
 このコミュニティサイトを作成することで動物たちの写真にタイトルをつけ<br>
 大喜利スタイルで投稿することで、楽しんでもらえる仕掛けづくりが出来ると考えました。
 ​
@@ -19,8 +18,8 @@
 - 疲れていて癒やしが欲しいとき
 ​
 ## 設計書
-- 実装機能リスト
-  https://docs.google.com/spreadsheets/d/1hd-EnohfutozsppErNAq8MIz5AdFt_2hux2wxqDr3nE/edit?usp=sharing
+- 実装機能リスト<br>
+https://docs.google.com/spreadsheets/d/1hd-EnohfutozsppErNAq8MIz5AdFt_2hux2wxqDr3nE/edit?usp=sharing
 ​
 ## 開発環境
 - OS：Linux(CentOS)
