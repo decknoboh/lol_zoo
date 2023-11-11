@@ -19,7 +19,8 @@
 疲れていて癒やしが欲しいとき
 ​
 ## 設計書
-<!--テーマを設定・提出する時点では不要です-->
+・実装機能リスト
+  https://docs.google.com/spreadsheets/d/1hd-EnohfutozsppErNAq8MIz5AdFt_2hux2wxqDr3nE/edit?usp=sharing
 ​
 ## 開発環境
 - OS：Linux(CentOS)
